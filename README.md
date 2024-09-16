@@ -5,8 +5,7 @@ rennsport is a split wireless only keyboard derived from the [Bad Temper]([https
 ## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk) 
 
 
-![rs](![image](https://github.com/user-attachments/assets/7810fa76-61f9-4504-baa9-73081ec836b4))
-
+![rs1](https://github.com/chase-hunter/rennsport/blob/main/images/rs1.png?raw=true)
 
 ## features
 
