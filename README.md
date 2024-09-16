@@ -12,7 +12,7 @@ rennsport is a split wireless only keyboard derived from the [Bad Temper]([https
 
 - 3x5 36-key split keyboard
 - choc spacing
-- sweep column stagger (minor adjustents) + corne thumb cluster
+- sweep column stagger (minor adjustents) + modified thumb cluster
 - reversible pcb
 - choc hot-swap
 - nice!nano support
