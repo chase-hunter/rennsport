@@ -1,6 +1,6 @@
 # rennsport
 
-rennsport is a split wireless only keyboard derived from the [Bad Temper]([https://github.com/raeedcho/temper](https://github.com/essFitt/Bad-Temper)) 
+rennsport is a split wireless only keyboard derived from the [Bad Temper]([https://github.com/essFitt/Bad-Temper]) 
 
 ## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk) 
 
